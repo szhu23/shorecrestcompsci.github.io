@@ -1,0 +1,368 @@
+[
+  {
+    "club": "Computer Science Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M305"
+  },
+  {
+    "club": "3D Modeling & Animation Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M191"
+  },
+  {
+    "club": "Animal Outreach",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M348"
+  },
+  {
+    "club": "APICC (Asian Pacific Islander Culture Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M337"
+  },
+  {
+    "club": "Art Club",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "T113"
+  },
+  {
+    "club": "Art Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "T113"
+  },
+  {
+    "club": "Computer Science Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M305"
+  },
+  {
+    "club": "Baking Club",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M343"
+  },
+  {
+    "club": "Bible Study Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M250"
+  },
+  {
+    "club": "Bowling Team",
+    "day": "Tue",
+    "time": "After School",
+    "room": "Spin Alley"
+  },
+  {
+    "club": "Bowling Team",
+    "day": "Thu",
+    "time": "After School",
+    "room": "Spin Alley"
+  },
+  {
+    "club": "BSU",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M350"
+  },
+  {
+    "club": "Central Perk Friends Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M229"
+  },
+  {
+    "club": "Chansons",
+    "day": "Tue",
+    "time": "7:00-7:45 AM",
+    "room": "T130"
+  },
+  {
+    "club": "Chansons",
+    "day": "Thu",
+    "time": "7:00-7:45 AM",
+    "room": "T130"
+  },
+  {
+    "club": "Current Events Club",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M350"
+  },
+  {
+    "club": "Debate Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M207"
+  },
+  {
+    "club": "DECA",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M193"
+  },
+  {
+    "club": "Environmental Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M327"
+  },
+  {
+    "club": "Fashion Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "T110"
+  },
+  {
+    "club": "Feminism Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M249"
+  },
+  {
+    "club": "French Club",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M229"
+  },
+  {
+    "club": "Future Healthcare Workers of America",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M337"
+  },
+  {
+    "club": "Gainz & Fitness Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M230"
+  },
+  {
+    "club": "GSA",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M208"
+  },
+  {
+    "club": "Highland Dancers",
+    "day": "Wed",
+    "time": "After School",
+    "room": "M245"
+  },
+  {
+    "club": "Interact Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M232"
+  },
+  {
+    "club": "International Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M343"
+  },
+  {
+    "club": "Japanese Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M230"
+  },
+  {
+    "club": "Key Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M247"
+  },
+  {
+    "club": "Lacrosse Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M206"
+  },
+  {
+    "club": "Latino Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M303"
+  },
+  {
+    "club": "League of Legends Club",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M346"
+  },
+  {
+    "club": "Magic Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M311"
+  },
+  {
+    "club": "Marxism Club",
+    "day": "Wed (Every Other)",
+    "time": "Lunch",
+    "room": "M343"
+  },
+  {
+    "club": "Math Team",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M303"
+  },
+  {
+    "club": "Model Gaming Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M347"
+  },
+  {
+    "club": "Model United Nations",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M243"
+  },
+  {
+    "club": "Muslim Student Association",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M249"
+  },
+  {
+    "club": "Nap Club",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M247"
+  },
+  {
+    "club": "Needle Craft Club",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M227"
+  },
+  {
+    "club": "Needle Craft Club",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M227"
+  },
+  {
+    "club": "PALS",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "Commons"
+  },
+  {
+    "club": "Pun Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M341"
+  },
+  {
+    "club": "Running Club",
+    "day": "Tue",
+    "time": "After School",
+    "room": "Gym"
+  },
+  {
+    "club": "Running Club",
+    "day": "Wed",
+    "time": "After School",
+    "room": "Gym"
+  },
+  {
+    "club": "Running Club",
+    "day": "Thu",
+    "time": "After School",
+    "room": "Gym"
+  },
+  {
+    "club": "Sources of Strength",
+    "day": "Wed",
+    "time": "Lunch",
+    "room": "M344"
+  },
+  {
+    "club": "Science Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M339"
+  },
+  {
+    "club": "SCNN",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M191"
+  },
+  {
+    "club": "Ski & Snowboard Club",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M191"
+  },
+  {
+    "club": "Smash Club",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M230"
+  },
+  {
+    "club": "Sociedad Honoraria Hispanica",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M232"
+  },
+  {
+    "club": "Sock Club",
+    "day": "Mon",
+    "time": "Lunch",
+    "room": "M303"
+  },
+  {
+    "club": "Table Top Dungeon",
+    "day": "Fri",
+    "time": "Lunch",
+    "room": "M206"
+  },
+  {
+    "club": "Tattoo",
+    "day": "Tue",
+    "time": "Lunch",
+    "room": "M249"
+  },
+  {
+    "club": "Tattoo",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M249"
+  },
+  {
+    "club": "Teenage Republicans Club",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M348"
+  },
+  {
+    "club": "TSA",
+    "day": "Thu",
+    "time": "Lunch",
+    "room": "M180"
+  },
+  {
+    "club": "Ultimate Frisbee",
+    "day": "Wed",
+    "time": "2:45",
+    "room": "Upper Hamlin"
+  },
+  {
+    "club": "Ultimate Frisbee",
+    "day": "Thu",
+    "time": "2:45",
+    "room": "Upper Hamlin"
+  }
+]
